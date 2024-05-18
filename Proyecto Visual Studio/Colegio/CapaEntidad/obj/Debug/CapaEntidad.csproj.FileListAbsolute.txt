@@ -1,0 +1,7 @@
+c:\users\user\Documents\visual studio 2015\Projects\Colegio\CapaEntidad\bin\Debug\CapaEntidad.dll
+c:\users\user\Documents\visual studio 2015\Projects\Colegio\CapaEntidad\bin\Debug\CapaEntidad.pdb
+c:\users\user\Documents\visual studio 2015\Projects\Colegio\CapaEntidad\obj\Debug\CapaEntidad.dll
+c:\users\user\Documents\visual studio 2015\Projects\Colegio\CapaEntidad\obj\Debug\CapaEntidad.pdb
+c:\users\user\Documents\visual studio 2015\Projects\Colegio\CapaEntidad\bin\Debug\System.Configuration.ConfigurationManager.dll
+c:\users\user\Documents\visual studio 2015\Projects\Colegio\CapaEntidad\bin\Debug\System.Configuration.ConfigurationManager.xml
+c:\users\user\Documents\visual studio 2015\Projects\Colegio\CapaEntidad\obj\Debug\CapaEntidad.csprojResolveAssemblyReference.cache
